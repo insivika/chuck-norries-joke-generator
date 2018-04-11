@@ -1,0 +1,162 @@
+body {
+    margin: 0 0 30px 0;
+}
+
+.hero-content {
+    background-color: #FEB81B
+}
+
+
+.hero-content h1 {
+    display: inline;
+    margin: 0;
+    color: white;
+    vertical-align: top;
+    text-align: center;
+    line-height: 150px;
+}
+
+.hero-pic {
+    margin: 0;
+    padding: 0;
+    height: 150px;
+}
+
+#menuebar{
+    background: grey;
+    padding: 10px 0 10px 0;
+}
+
+
+#menuebar a{
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+}
+
+.dropdown-content {
+    display: none;
+    background-color: #f1f1f1;
+    min-width: 160px;
+}
+
+.dropdown-content a {
+    text-decoration: none;
+    display: inline-block;
+    
+    color: black;
+    margin-right: 15px;
+    margin-left: 20px;
+    line-height: 30px;
+    display: inline-block;
+}
+
+
+.show {display:block;}
+
+
+
+
+#categories a{
+    text-decoration: none;
+    color: white;
+    margin-right: 15px;
+    line-height: 30px;
+}
+
+
+section {
+    margin: 0 100px 0 100px;
+}
+
+#categoryHeader {
+    font-size: 25px;
+    margin-top: 20px;
+    font-weight: 900;
+}
+
+
+.divBox {
+    height: 300px;
+    width: 300px;
+    background-color: grey;
+    display: inline-block;
+    margin: 20px 0 20px 40px;
+    float: left;
+    text-align: center;
+    overflow: hidden;
+}
+
+.joke-text {
+    margin: 50px;
+   
+}
+
+.category-header {
+    margin: 10px 0 0 0px;
+    text-align: center;
+}
+
+/*----Search-----*/
+
+.search-bar {
+    min-width: 30%;
+    min-height: 30px;
+    margin-left: 35%;
+    margin-top: 30px;
+    border: 2px solid #868686;
+    line-height: 20px;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 3px;
+}
+
+.search-button {
+    height: 45px;
+    padding: 10px;
+    border-radius: 3px;
+    border: 2px solid #868686;
+    font-size: 15px;
+    color: #868686;
+}
+
+.search-button:hover {
+    background-color: #efefef;
+}
+
+
+#searchResults {
+    margin: 30px 40px 20px 40px;
+    
+}
+
+.search-text {
+    border: 2px solid #d8d8d8;
+    padding: 15px;
+    border-radius: 3px;
+}
+
+
+#load-more {
+    width: 100%;
+    text-align: center;
+}
+
+.load-more-btn {
+    padding: 15px;
+    font-size: 15px;
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
